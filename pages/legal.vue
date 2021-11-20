@@ -1,6 +1,6 @@
 <template>
   <div>
-
+    <Fonts />
     <!-- Navbar -->
     <Navbar />
     <!-- Header Background with Text -->

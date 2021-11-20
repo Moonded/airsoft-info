@@ -1,6 +1,6 @@
 <template>
   <div class="bebas-regular">
-
+    <Fonts />
     <!-- Navbar -->
     <Navbar />
     <!-- Header Background with Text -->
